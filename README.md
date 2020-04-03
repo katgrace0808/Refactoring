@@ -1,5 +1,4 @@
-# Week-1-Homework
-Homework files for week one
+# Refactoring
 Defactoring of Horiseon website due to accessibility issues.
 
 In the html file, replaced all div tags with semantic tags for easier narration.  
@@ -16,3 +15,4 @@ The result is the same website as before, but a compliant and accessible one.
 I'm open to further suggestions for improvements or corrections.
 
 Thanks to my UW Bootcamp Instructor and TAs for their guidance.  Couldn't have done this without them.
+
